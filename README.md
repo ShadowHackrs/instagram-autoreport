@@ -8,7 +8,7 @@ Please use it for education only and I disclaim responsibility #Shadow Hacker
 ## INSTALLATION
 
 ### Windows
-you need download Chrome Driver from https://chromedriver.chromium.org
+you need download Chrome Driver from [https://chromedriver.chromium.org](https://chromedriver.storage.googleapis.com/index.html?path=114.0.5735.16/)
 
 and copy file Chrome Driver to path C:\Windows
 
